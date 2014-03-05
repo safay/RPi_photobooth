@@ -1,0 +1,3 @@
+#!/bin/sh
+sleep 6
+sudo python /home/pi/scripts/photobooth/photo_booth.py
